@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#### Realizado por Andrés Cámara
+#### Realizado por CiberDosis gestor de proyectos para sistemas Linux
 
 ############################## Colores
 
